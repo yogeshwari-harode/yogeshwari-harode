@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 ![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwari-harode&exclude_repo=github-readme-stats,yogeshwari.github.io)](https://github.com/yogeshwari-harode/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwari-harode&exclude_repo=github-readme-stats,yogeshwari.github.io)
