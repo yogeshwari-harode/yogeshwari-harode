@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Yogeshwari! 👋
+[![HitCount](http://hits.dwyl.com/yogeshwari-harode/yogeshwari-harode.svg)](http://hits.dwyl.com/yogeshwari-harode/yogeshwari-harode)
 
 <!--
 **yogeshwari-harode/yogeshwari-harode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwari-harode&exclude_repo=github-readme-stats,yogeshwari.github.io)](https://github.com/yogeshwari-harode/github-readme-stats)
