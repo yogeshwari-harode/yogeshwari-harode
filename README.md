@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&show_icons=true)
+![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=F012BE&icon_color=bb2acf&text_color=0074D9&bg_color=30,3D9970,01FF70 )
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwari-harode&exclude_repo=github-readme-stats,yogeshwari.github.io)
