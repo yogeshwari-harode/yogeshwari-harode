@@ -1,4 +1,4 @@
-## Hi there, This is Yogeshwari! ![](https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif)
+## Hi there, This is Yogeshwari! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height=35px width=35px>
 
 [![HitCount](http://hits.dwyl.com/yogeshwari-harode/yogeshwari-harode.svg)](http://hits.dwyl.com/yogeshwari-harode/yogeshwari-harode)
 
