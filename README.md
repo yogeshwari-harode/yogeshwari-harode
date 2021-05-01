@@ -1,6 +1,7 @@
 ## Hi there, This is Yogeshwari! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height=30px width=30px>
 
-[![HitCount](http://hits.dwyl.com/yogeshwari-harode/yogeshwari-harode.svg)](http://hits.dwyl.com/yogeshwari-harode/yogeshwari-harode)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyogeshwari-harode%2Fhit-counter)
+
 
 <!--
 **yogeshwari-harode/yogeshwari-harode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
