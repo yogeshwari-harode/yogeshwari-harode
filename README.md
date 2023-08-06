@@ -1,6 +1,5 @@
 ## Hi there, This is Yogeshwari! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height=30px width=30px>
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fyogeshwari-harode%2Fhit-counter)<br>
 ![](https://img.shields.io/github/stars/yogeshwari-harode)<br>
 ![](https://img.shields.io/github/followers/yogeshwari-harode)<br>
 <!--<img src="https://komarev.com/ghpvc/?username=yogeshwari-harode&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshwari-harode" />-->
