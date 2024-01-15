@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://auth.geeksforgeeks.org/user/yamiharodeg11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
 <br><br>
 
-![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=F012BE&icon_color=bb2acf&text_color=0074D9&bg_color=30,3D9970,01FF70 )
+![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=0455EC&icon_color=0455EC&text_color=000000&bg_color=30,FFFFFF,FFFFFF )
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwari-harode&exclude_repo=github-readme-stats,yogeshwari.github.io)
 <br>
