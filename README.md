@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <h3>Connect with me on - </h3>
 <a href="https://www.linkedin.com/in/yogeshwari-harode-2bb48b1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yamiharodeg11" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@Yogeshwari-Harode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yamiharodeg11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Yogeshwari-Harode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
+
 <br><br>
 
 ![yogeshwari's github stats](https://github-readme-stats.vercel.app/api?username=Yogeshwari-harode&&show_icons=true&title_color=0455EC&icon_color=0455EC&text_color=000000&bg_color=30,FFFFFF,FFFFFF )
