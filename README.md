@@ -1,7 +1,4 @@
-## Hi there, This is Yogeshwari! <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height=30px width=30px>
-
-![](https://img.shields.io/github/stars/yogeshwari-harode)<br>
-![](https://img.shields.io/github/followers/yogeshwari-harode)<br>
+<h2>👋 Hii there, I’m Yogeshwari!</h2>
 <!--<img src="https://komarev.com/ghpvc/?username=yogeshwari-harode&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshwari-harode" />-->
 
 <!--
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2>Connect with me on - </h2>
+<h3>Connect with me on - </h3>
 <a href="https://www.linkedin.com/in/yogeshwari-harode-2bb48b1a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yamiharodeg11" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@Yogeshwari-Harode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Yogeshwari Harode" height="30" width="40" /></a>
